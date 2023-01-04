@@ -24,6 +24,10 @@ T型阻抗匹配
 
 肖特基二极管：更适合高频电路  
 滤波器：微带型滤波器  
+整流阵列提高转换效率  
+- 采用功合器并联
+- 采用多个整流电路串联，使用多层介质基板
+
 
 <img width="606" alt="image" src="https://user-images.githubusercontent.com/82877682/210563955-82c9d245-179d-4e68-b448-89521b17dbda.png">  
 这里的MOS开关是否有效？
