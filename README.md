@@ -2,6 +2,12 @@
 NEAR-ZERO RF MEMS SENSING WAKE-UP SYSTEM  
 来自本人的srtp项目：“面向无线传感的RF唤醒电路”，仅做笔记使用
 
+## 想法  
+- [ ] 框架闭环供电
+- [ ] MPPT功率点追踪
+- [ ] 误触发检测
+- [ ] 加入储能元件
+- [ ] 能否节省开关
 
 ## 整体框架
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/82877682/210565098-1515ee78-79a0-4408-b6c4-58c8d27c978c.png">  
