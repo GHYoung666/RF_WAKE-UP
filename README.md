@@ -10,8 +10,8 @@ NEAR-ZERO RF MEMS SENSING WAKE-UP SYSTEM
 - [ ] 能否节省开关
 
 ## 整体框架
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/82877682/210565098-1515ee78-79a0-4408-b6c4-58c8d27c978c.png">
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/82877682/210563955-82c9d245-179d-4e68-b448-89521b17dbda.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/82877682/210565098-1515ee78-79a0-4408-b6c4-58c8d27c978c.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/82877682/210563955-82c9d245-179d-4e68-b448-89521b17dbda.png">
 
 这里的MOS开关是否有效？MEMS开关2可否省去？
 
