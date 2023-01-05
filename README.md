@@ -13,8 +13,6 @@ NEAR-ZERO RF MEMS SENSING WAKE-UP SYSTEM
 ### 原框架  
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/82877682/210565098-1515ee78-79a0-4408-b6c4-58c8d27c978c.png"> <img width="500" alt="image" src="https://user-images.githubusercontent.com/82877682/210563955-82c9d245-179d-4e68-b448-89521b17dbda.png">
 
-这里的MOS开关是否有效？MEMS开关2可否省去？
-
 ### 闭环结构 
 <img width="501" alt="image" src="https://user-images.githubusercontent.com/82877682/210812233-2bb20b64-0a09-4640-8e08-741edfc66cc9.png">  
 不知道什么原因，Multisim上的仿真存在一些问题，MOS开关和继电器开关不一样，软件把MOS开关断开时当成一个普通电阻来看了，因此该结构可行性未知
